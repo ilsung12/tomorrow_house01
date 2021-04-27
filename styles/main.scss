@@ -3,10 +3,6 @@
 @import './base/normalize';
 @import './base/reset';
 
-// 변수선언
-$thang-2: 100ms; // 이 사용법 채택
-//$THANG_3: 1;
-
 p {
   transition: $thang-2;
 }
