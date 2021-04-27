@@ -1,8 +1,8 @@
 @import './constants/colors';
+@import './constants/typography';
+
 @import './base/fonts';
 @import './base/normalize';
 @import './base/reset';
 
-p {
-  transition: $thang-2;
-}
+@import './layouts/grids';
